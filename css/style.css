@@ -1,16 +1,6 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: Md. Shahadat Hussain
-@URL: https://themeforest.net/user/droitthemes
-
-This file contains the styling for the actual template, this
-is the file you need to edit to change the look of the
-template.
----------------------------------------------------- */
 /*=====================================================================
-@Template Name: 
-@Author: Md. Shahadat Hussain
-@Developed By: Rony
+@Author: ANwaram Web Development Agency
+@Developed By: Banisetti Naveen Kumar
 @Developer URL: https://themeforest.net/user/droitthemes
 
 @Default Styles
@@ -6897,6 +6887,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   padding: 150px 0px 175px;
   position: relative;
   z-index: 0;
+  margin: 120px;
 }
 
 .p_service_info {
